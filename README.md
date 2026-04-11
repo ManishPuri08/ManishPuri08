@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Technical Product Manager with 7+ years of experience, including 4+ years in Product Management, building AI/ML and SaaS products.<br><br>Core Expertise: Product Management, Technical Product Management, AI Product Management, SaaS Products, Data Platforms, APIs, Product Analytics, GTM Strategy<br><br> I have worked in Healthcare, Fintech, HR & Travel Domain <br>I specialize in RAG-based AI systems, data platforms, and API-driven products, helping businesses scale decision-making through Product Analytics and automation.
+I’m a Technical Product Manager with 7+ years of experience, including 4+ years in Product Management, building AI/ML and SaaS products.<br><br>Core Expertise: Product Management, Technical Product Management, AI Product Management, SaaS Products, Data Platforms, APIs, Product Analytics, GTM Strategy.I have worked in Healthcare, Fintech, HR & Travel Domain <br><br> I specialize in RAG-based AI systems, data platforms, and API-driven products, helping businesses scale decision-making through Product Analytics and automation.
 
 
 ## 🌐 Socials:
