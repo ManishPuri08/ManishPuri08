@@ -10,4 +10,15 @@ I’m a Technical Product Manager with 7+ years of experience, including 4+ year
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 💻 Skills:
-Product Management | Technical Product Management | AI Product Management | Vibe Coding | B2B SaaS | Product Strategy | Roadmapping | Agile | Scrum | RAG | Data Platforms | Product Analytics | PRD | SQL | KPI Monitoring | PowerBI | API | Product Life Cycle | Business Analysis | SaaS Product Development | Funnel | JIRA | AI 
+
+#AI / ML#
+RAG Systems, LLM Applications, Prompt Engineering, AI Accuracy Frameworks, NLP, AI Prototyping, Vibe coding
+
+#Healthcare#
+EMR/EHR, Ambulatory Care Workflows, Clinical Documentation, Healthcare Compliance, Usability Testing 
+
+#Product#
+Customer Life Cycle, Roadmapping, PRD Authoring, GTM Strategy, RICE/MoSCoW, Agile/Scrum · Backlog & Sprint Management, Workflow, Product Discovery, Product Monitoring
+
+#Analytics#
+Power BI, SQL, Databricks, KPI Metrics Design, A/B Testing, Funnel Optimization · Google Analytics
