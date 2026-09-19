@@ -1,24 +1,45 @@
-# 💫 About Me:
-I’m a Technical Product Manager with 7+ years of experience, including 4+ years in Product Management, building AI/ML and SaaS products.<br><br>Worked on Projects - Clinical Management , Incentive & Sales Management , Dashboards , HR Management <br><br>Core Expertise: Product Management, Technical Product Management, AI Product Management, SaaS Products, Data Platforms, APIs, Product Analytics, GTM Strategy.I have worked in Healthcare, Fintech, HR & Travel Domain <br><br> I specialize in RAG-based AI systems, data platforms, and API-driven products, helping businesses scale decision-making through Product Analytics and automation.
+# Hey I am Manish👋
 
+I build AI-powered products, data platforms, and SaaS experiences.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/manish-puri08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:P.Manish08@ymail.com) 
+Most of my work starts with a workflow that is too manual, fragmented, or difficult to measure. I turn it into a practical product: define the problem, shape the roadmap, work with engineering and users, and measure whether it improves outcomes.
+
+I’m a Technical Product Manager with 7+ years of experience across technology, including 4+ years in Product Management. I’ve built products across healthcare, fintech, HR, and travel.
+
+**Lately, I’ve been working on**
+
+- RAG-based AI systems and LLM applications for business workflows
+- AI accuracy frameworks, prompt engineering, and rapid AI prototyping
+- Data platforms, dashboards, and product analytics for better decision-making
+- API-driven products and integrations that reduce operational friction
+- Product strategy, GTM planning, roadmaps, and customer lifecycle improvements
+- Clinical management, incentive & sales management, HR management, and analytics products
+
+Everything I build is focused on one outcome: making complex workflows simpler, decisions clearer, and products genuinely useful.
+
+# 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# 💻 Skills:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-#AI / ML#
-RAG Systems, LLM Applications, Prompt Engineering, AI Accuracy Frameworks, NLP, AI Prototyping, Vibe coding
+# 🧠 Skills:
 
-#Healthcare#
-EMR/EHR, Ambulatory Care Workflows, Clinical Documentation, Healthcare Compliance, Usability Testing 
+**AI / ML**  
+RAG Systems · LLM Applications · Prompt Engineering · AI Accuracy Frameworks · NLP · AI Prototyping
 
-#Product#
-Customer Life Cycle, Roadmapping, PRD Authoring, GTM Strategy, RICE/MoSCoW, Agile/Scrum · Backlog & Sprint Management, Workflow, Product Discovery, Product Monitoring
+**Product**  
+Product Strategy · Technical Product Management · Product Discovery · Roadmapping · PRDs · GTM Strategy · Agile / Scrum
 
-#Analytics#
-Power BI, SQL, Databricks, KPI Metrics Design, A/B Testing, Funnel Optimization · Google Analytics
+**Data & Analytics**  
+Power BI · SQL · Databricks · KPI Design · Product Analytics · A/B Testing · Funnel Optimization
+
+**Healthcare**  
+EMR / EHR · Ambulatory Care Workflows · Clinical Documentation · Healthcare Compliance · Usability Testing
