@@ -4,7 +4,7 @@ I build AI-powered products, data platforms, and SaaS experiences.
 
 Most of my work starts with a workflow that is too manual, fragmented, or difficult to measure. I turn it into a practical product: define the problem, shape the roadmap, work with engineering and users, and measure whether it improves outcomes.
 
-I'm a Technical Product Manager with 7+ years of experience across technology, including 4+ years in Product Management. I've built products across healthcare, fintech, HR, and travel.
+I'm a AI Product Manager with 7+ years of experience across technology, including 4+ years in Product Management. I've built products across healthcare, fintech, HR, and travel.
 
 Lately, I've been working on
 
